@@ -56,7 +56,6 @@ def resize_and_copy():
 
     print("\n✅ 🎉 全部完成！")
     print(f"📂 新数据集位于: {OUTPUT_DIR}")
-    print("💡 下一步：在你的 Notebook 中把 DATASET_PATH 指向这个新文件夹。")
 
 if __name__ == "__main__":
     resize_and_copy()
